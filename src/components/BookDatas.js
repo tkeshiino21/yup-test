@@ -1,0 +1,42 @@
+export const bookDatas = [
+  {
+    key: "book1",
+    id: 1,
+    name: "Critique of Political Economy",
+    category: "Economy",
+    author: "Karl Marx",
+    review: "This is a good book",
+  },
+  {
+    key: "book2",
+    id: 2,
+    name: "Sence of Wunder",
+    category: "Science",
+    author: "Millana Carton ",
+    review: "This is about nature",
+  },
+  {
+    key: "book3",
+    id: 3,
+    name: "Nine Stories",
+    category: "Literuture",
+    author: "J.D Salinger",
+    review: "This is a story composed by Salinger",
+  },
+  {
+    key: "book4",
+    id: 4,
+    name: "Some of my Dream",
+    category: "Art",
+    author: "Lauren Thai",
+    review: "This is a dialy with fine illustration drawn by Lauren Thai",
+  },
+  {
+    key: "book5",
+    id: 5,
+    name: "The Phycology of Ego",
+    category: "Phycology",
+    author: "Haints Kofut",
+    review: "This is a diffucult book to read",
+  },
+];
